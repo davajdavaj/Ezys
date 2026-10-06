@@ -1,0 +1,128 @@
+[
+ {
+  "id": "1",
+  "scene": "STUDIO",
+  "l1": "Wide symmetrical frontal. Smooth dolly pushes in on the news desk. Level, bright TV key light.",
+  "l2": "Business as usual at Ežys news. The headline is anything but.",
+  "audio": "RITA: In the news today: Pinocchio has entered his teens."
+ },
+ {
+  "id": "2",
+  "scene": "STUDIO",
+  "l1": "Medium close on Benas. Locked off with a slow creep in. Clean studio key, soft rim.",
+  "l2": "Total professional. He hands over to the most awkward live report of the year.",
+  "audio": "BENAS: Trying to make contact: Andrius."
+ },
+ {
+  "id": "3",
+  "scene": "HOME · HALLWAY",
+  "l1": "Handheld over Andrius's shoulder. He knocks on a closed bedroom door with a NOBODY ENTERS sign.",
+  "l2": "A real news crew at a real teenager's door. Nobody is going to answer.",
+  "audio": "SFX: Knock, knock."
+ },
+ {
+  "id": "4a",
+  "scene": "HOME · HALLWAY",
+  "l1": "Handheld close on the door gap. The door cracks open and the wooden nose slides out first.",
+  "l2": "The problem enters the frame before he does.",
+  "audio": "SFX: Door creak."
+ },
+ {
+  "id": "4b",
+  "scene": "HOME · HALLWAY",
+  "l1": "Camera pulls back as the door opens wider. Pinocchio's face appears, mic pushed in from frame left.",
+  "l2": "Fourteen, furious and wooden. He did not ask for this interview.",
+  "audio": ""
+ },
+ {
+  "id": "5",
+  "scene": "HOME · LIVING ROOM",
+  "l1": "Handheld medium, slightly high. Pinocchio on the sofa, mic from frame right, Christmas tree behind him.",
+  "l2": "A confession on live TV. The tree stands there, innocent, waiting.",
+  "audio": "PINOCCHIO: The holidays are almost here, and look what just grew on my nose!"
+ },
+ {
+  "id": "6",
+  "scene": "MEMORY · BEDROOM",
+  "l1": "Close profile at nose height. His hands tie a string from the mandarin stem to the door handle.",
+  "l2": "The oldest trick from childhood, applied to a very teenage problem.",
+  "audio": "PINOCCHIO (VO): I tried to pull it off…"
+ },
+ {
+  "id": "7",
+  "scene": "MEMORY · BEDROOM",
+  "l1": "Wide, static. He slams the door. The string snaps tight and yanks him face first into it.",
+  "l2": "Physics wins. The mandarin doesn't move an inch.",
+  "audio": "SFX: SLAM. Wooden BONK."
+ },
+ {
+  "id": "8",
+  "scene": "MEMORY · SCHOOL",
+  "l1": "Wide handheld down a Lithuanian school corridor. A nose and mandarin poke out between hanging winter coats.",
+  "l2": "The perfect hiding place. Almost. Here she comes.",
+  "audio": "PINOCCHIO (VO): I tried to disappear…"
+ },
+ {
+  "id": "9",
+  "scene": "MEMORY · SCHOOL",
+  "l1": "Tight close up through the gap between two coats. Eyes, nose and mandarin only.",
+  "l2": "Teenage horror in its purest form. She has seen it.",
+  "audio": ""
+ },
+ {
+  "id": "10",
+  "scene": "HOME · LIVING ROOM",
+  "l1": "Handheld two shot. Andrius kindly holds out a mandarin to Pinocchio. Tree between them in the background.",
+  "l2": "A small act of kindness. The worst possible move.",
+  "audio": ""
+ },
+ {
+  "id": "11",
+  "scene": "HOME · LIVING ROOM",
+  "l1": "Handheld low angle, 24mm. Pinocchio erupts and the nose shoots toward the lens. [VFX]",
+  "l2": "Pure teenage rage. Every lie makes it longer.",
+  "audio": "PINOCCHIO: I hate it! I hate Christmas! I hate mandarins! I hate, hate, hate them!"
+ },
+ {
+  "id": "12",
+  "scene": "HOME · LIVING ROOM",
+  "l1": "Wide handheld. The nose hits the Christmas tree. Tree topples, Pinocchio falls back over the sofa. [VFX]",
+  "l2": "Out with the old tree.",
+  "audio": "SFX: Crash, straw ornaments scatter."
+ },
+ {
+  "id": "13a",
+  "scene": "HOME · LIVING ROOM",
+  "l1": "Wide at waist height. Andrius beside the nose rising vertically from the bottom edge of frame. [VFX]",
+  "l2": "Pinocchio is on the floor out of shot, still ranting. The nose is not done.",
+  "audio": "PINOCCHIO (O.S.): …hate, hate, hate them!"
+ },
+ {
+  "id": "13b",
+  "scene": "HOME · LIVING ROOM",
+  "l1": "Same frame, camera holds. Leafy branches sprout along the nose into a Christmas tree full of mandarins. [VFX]",
+  "l2": "In with the new one. Puberty, but make it festive.",
+  "audio": ""
+ },
+ {
+  "id": "14",
+  "scene": "HOME · LIVING ROOM",
+  "l1": "Handheld medium. Andrius picks a mandarin from the nose tree and turns to camera.",
+  "l2": "The reporter has seen everything. Nothing surprises him anymore.",
+  "audio": "ANDRIUS: Easy, Christmas is practically on our nose!"
+ },
+ {
+  "id": "15",
+  "scene": "PACKSHOT",
+  "l1": "Product shot at table height. Mandarins tumble in, a Lynxmonade bottle drops and smashes them. [CGI]",
+  "l2": "Juice everywhere. The only explosion Christmas really needs.",
+  "audio": "RITA (VO): Where there's Christmas, there are mandarins! Order the Ežys plan and win mandarin Ežys lemonade!"
+ },
+ {
+  "id": "16",
+  "scene": "END CARD",
+  "l1": "Ežys logo on brand teal.",
+  "l2": "",
+  "audio": "VO: Ežys. And no nonsense."
+ }
+]
