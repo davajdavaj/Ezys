@@ -124,5 +124,19 @@
   "l1": "Ežys logo on brand teal.",
   "l2": "",
   "audio": "VO: Ežys. And no nonsense."
+ },
+ {
+  "id": "8B",
+  "scene": "MEMORY · SCHOOL TOILET · OPTION B",
+  "l1": "Top shot straight down into a toilet cubicle. He curls up on the lid, nose pointing at the lens.",
+  "l2": "Alternative to the cloakroom. The cubicle is too narrow for his nose.",
+  "audio": "PINOCCHIO (VO): I tried to disappear…"
+ },
+ {
+  "id": "9B",
+  "scene": "MEMORY · SCHOOL TOILET · OPTION B",
+  "l1": "Wide handheld from the side. A nose with a mandarin sticks out over the top of the second cubicle.",
+  "l2": "Two boys at the sinks freeze. One of them reaches for his phone.",
+  "audio": ""
  }
 ]

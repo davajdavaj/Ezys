@@ -42,7 +42,7 @@ def frame_visual(s):
         return f'''<div class="shot endcard">
           <div class="wordmark">e<span class="z">z<span class="tick big"><i></i></span></span>ys</div>
           <div class="nonsense">AND NO NONSENSE</div></div>'''
-    fname = "f" + (sid.zfill(2) if sid.isdigit() else sid.zfill(3))
+    fname = "f" + (sid.zfill(2) if sid.isdigit() else sid.zfill(3).lower())
     overlay = ""
     if sid in TICKER_FRAMES:
         overlay = f'''<div class="ticker"><div class="hashtag">#ezysgyvai</div>
