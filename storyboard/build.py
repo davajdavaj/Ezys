@@ -100,7 +100,7 @@ pages.append('''<section class="page approach">
     </div>
     <div class="col">
       <div class="k">The story</div>
-      <p>The mandarin is his first zit. He tries to pull it off, he tries to hide it, and in the end he lies about it. Every lie makes the nose longer, until it knocks over the Christmas tree and becomes a new one.</p>
+      <p>Puberty, reported like breaking news. Something grows on his nose and he feels everyone is looking. He tries to pull it off, he tries to disappear, and in the end he lies about it. Every lie makes the nose longer, until it knocks over the Christmas tree and becomes a new one.</p>
       <div class="k">Lithuania, not America</div>
       <p>A Soviet era apartment: herringbone parquet, a dark wall unit, a cast iron radiator under lace curtains, straw ornaments on a real spruce. The school has two tone painted walls, paper snowflakes on the windows and a cloakroom with coat hooks. No lockers. Door sign in Lithuanian on set.</p>
       <div class="k">Colour on the board</div>
